@@ -11,7 +11,7 @@
 - **Pandas**
 - **Matplotlib**
 - **NumPy**
-- **Jupyter Notebook**
+
 
 ---
 
